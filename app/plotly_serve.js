@@ -1,3 +1,5 @@
+# From http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/
+
 var serialport = require('serialport'),
     plotly = require('plotly')('Plotly_UserName','Plotly_API'),
     token = 'Plotly_Token';

@@ -1,3 +1,5 @@
+# From http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/
+
 var serialport = require('serialport');
 var portName = '/dev/tty.usbmodem1411';
 var sp = new serialport.SerialPort(portName, {
