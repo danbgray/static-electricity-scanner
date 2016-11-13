@@ -1,0 +1,16 @@
+{
+  "name": "static-field-sensor",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "authors": "",
+  "license": "ISC",
+  "dependencies": {
+    "plotly": "^1.0.6",
+    "serialport": "^4.0.6"
+  }
+}
